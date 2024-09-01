@@ -35,10 +35,8 @@ This website serves as a portfolio to showcase my work. Feel free to explore the
 Contact
 If you have any questions or would like to get in touch, feel free to reach out via the contact form on the website or through the following channels:
 
-Email: petosagie@gmail.com
-LinkedIn: http://www.linkedin.com/in/osagie-ohenhen
-GitHub: https://github.com/Petosagie
-License
+**Email: petosagie@gmail.com**
+**LinkedIn: http://www.linkedin.com/in/osagie-ohenhen**
+**GitHub: https://github.com/Petosagie**
+- License
 This project is open-source and available under the MIT License.
-
-This format is clean, organized, and follows typical Markdown conventions for a README file. It will render nicely on GitHub or any other platform that supports Markdown.
