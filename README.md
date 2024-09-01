@@ -30,13 +30,19 @@ cd portfolio
 3 Open index.html in your web browser to view the website.
 
 Usage
+
 This website serves as a portfolio to showcase my work. Feel free to explore the profile section to learn more about me, and visit the projects section to see what I've built. Each project includes a brief description, key technologies used, and links to view the live demo or source code.
 
 Contact
+
 If you have any questions or would like to get in touch, feel free to reach out via the contact form on the website or through the following channels:
 
 **Email: petosagie@gmail.com**
+
 **LinkedIn: http://www.linkedin.com/in/osagie-ohenhen**
+
 **GitHub: https://github.com/Petosagie**
+
 - License
+
 This project is open-source and available under the MIT License.
