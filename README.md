@@ -43,6 +43,7 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 **GitHub: https://github.com/Petosagie**
 
+**Website: https://osagieportfolio.netlify.app/**
 - License
 
 This project is open-source and available under the MIT License.
