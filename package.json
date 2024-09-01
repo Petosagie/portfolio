@@ -1,5 +1,5 @@
 {
-    "name": "simplefolio",
+    "name": "portfolio",
     "version": "1.0.1",
     "private": "true",
     "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/cobiwave/simplefolio"
+        "url": "git+https://github.com/Petosagie/portfolio"
     },
     "keywords": [],
-    "author": "Jacobo Martinez",
+    "author": "Osagie Ohenhen",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/cobiwave/simplefolio/issues"
+        "url": "https://github.com/Petosagie/portfolio/issues"
     },
-    "homepage": "https://github.com/cobiwave/simplefolio#readme",
+    "homepage": "https://github.com/Petosagie/portfolio#readme",
     "devDependencies": {
         "@parcel/transformer-sass": "^2.12.0",
         "parcel": "^2.8.2",
